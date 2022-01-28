@@ -1,7 +1,7 @@
 # Portfolio
 >Portfolio: Desktop Version
 We use bootstrap to do it without css
-![Screenshot](assets\images\screenshoot.png)
+![Screenshot](\assets\images\screenshoot.png)
 ## Built With
 - Html
 - Bootstrap
