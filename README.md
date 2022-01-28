@@ -5,8 +5,6 @@ We use bootstrap to do it without css
 ## Built With
 - Html
 - Bootstrap
-## acknowledgement
-- Thank you @vickymarz
 ## Authors
 ## Author1
 **Beyk**
@@ -18,4 +16,3 @@ We use bootstrap to do it without css
 - GitHub: [@KanoCode](https://github.com/KanoCode)
 - Twitter: [@kanombola_s](https://https://mobile.twitter.com/kanombola_s)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/mwlite/in/kanombola-kanombola-a38b061a4)
-screenshoot.png
